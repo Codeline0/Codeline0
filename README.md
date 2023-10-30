@@ -5,7 +5,7 @@
 
 <div align ="center">
 
-:trident:I’m currently learning **data engineer**, 🔭 & :bar_chart: I’m looking to collaborate on **data processing and engineering projects**.
+:trident:I’m currently learning **data engineering**, 🔭 & :bar_chart: I’m looking to collaborate on **data processing and engineering projects**.
 
 </div>
 
@@ -69,10 +69,7 @@ const Marco = {
 
 * ** **
 <h2> Connect with me.</h2>
-   <div>
-      <img src="https://media.giphy.com/media/nnRG5giXc4coZ7xWCw/giphy.gif" width="100" align="right">
-   </div>
-   
+
    <div>
     <a href="https://www.linkedin.com/in/marco-camez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" target="_blank">
     </a> 
