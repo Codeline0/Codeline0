@@ -5,7 +5,7 @@
 
 <div align ="center">
 
-:trident:I’m currently learning **data science**, 🔭 I’m working on **thesis and on this portfolio** & :bar_chart: I’m looking to collaborate on **data processing and engineering projects**.
+:trident:I’m currently learning **data engineer**, 🔭 & :bar_chart: I’m looking to collaborate on **data processing and engineering projects**.
 
 </div>
 
@@ -61,7 +61,7 @@ const Marco = {
 
 <div align ="center">
   <a href="https://github.com/Codeline0">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Codeline0-&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Codeline0&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=false&show_owner=true%22"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codeline0&theme=dark&hide_border=false&&layout=compact"/>
     <img height="150em" src="http://github-readme-streak-stats.herokuapp.com?user=Codeline0&theme=dark&hide_border=false&show_owner=true%22"/>
   </a>
